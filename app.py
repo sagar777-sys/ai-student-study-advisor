@@ -176,7 +176,7 @@ if st.button(
                     "🤖 AI Generated Study Plan"
                 )
 
-                st.markdown(plan)
+                st.markdown(ai_plan)
 
 
             except Exception as e:
